@@ -1,0 +1,10 @@
+title       = "opensky"
+baseURL     = "https://opensky-cli.tamnd.com/"
+description = "real-time flight tracking via OpenSky Network API"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/opensky-cli"
